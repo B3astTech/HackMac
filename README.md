@@ -9,3 +9,6 @@
 ##### OS Drive: Kingston SSD 240g sata (Mac OS 12.4 Monterey)
 
 # Current Issue
+##### Was able to apply nvidia drivers via OpenCore Legacy Patcher
+##### HDMI of nvidia egpu doesn't show output of device for sound
+##### After patching drivers when I have more then one monitor connected during boot it shows a black screen log of both with and without are in ISSUE folder
