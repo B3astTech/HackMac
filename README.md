@@ -12,3 +12,4 @@
 ##### Was able to apply nvidia drivers via OpenCore Legacy Patcher
 ##### HDMI of nvidia egpu doesn't show output of device for sound
 ##### After patching drivers when I have more then one monitor connected during boot it shows a black screen log of both with and without are in ISSUE folder
+##### After booting into mac os and logging in and look in "about this mac" It doesnt show nvidia gpu but when I connect another screen it pops up
